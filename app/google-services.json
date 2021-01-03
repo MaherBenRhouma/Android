@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879056456399",
+    "project_id": "auth-fb95d",
+    "storage_bucket": "auth-fb95d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879056456399:android:e45e11c0babd0c407885ba",
+        "android_client_info": {
+          "package_name": "com.dsi32.Covid_Encyclopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879056456399-nks2re4sq5ftum63jnokmtkk4bcg3cae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Qw5BN_CKr7zLdTc25xXEmKmuyDnT8Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879056456399-nks2re4sq5ftum63jnokmtkk4bcg3cae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

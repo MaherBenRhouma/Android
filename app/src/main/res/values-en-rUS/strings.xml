@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid_Encyclopedia</string>
+    <string name="title_activity_menu__inscription">incription_menu</string>
+    <string name="menu">Menu</string>
+    <string name="les_actualit_s_en_tunisie">Actualities in Tunisia</string>
+    <string name="covid_presentation">Covid presentation</string>
+    <string name="a_propos">about</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_password">enter password</string>
+    <string name="connecter">connect</string>
+    <string name="s_inscrire">sign up</string>
+    <string name="restaurer_mot_de_passe">password restauration</string>
+    <string name="confirmer_password">password confirmation</string>
+    <string name="pr_nom">lastname</string>
+    <string name="nom">name</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="restauration_mot_de_passe">password restauration</string>
+    <string name="saisir_votre_identifiant_email">enter your login/mail</string>
+    <string name="votre_adresse_email">mail adress</string>
+    <string name="restaurer">restauration</string>
+    <string name="terminer">finish</string>
+    <string name="autoriser_les_notifications">notifications acceptable</string>
+    <string name="j_accepte_les_termes_et_les_conditions">i accept terms and conditions</string>
+    <string name="bienvenue">welcome</string>
+    <string name="back">back</string>
+    <string name="entrer_mot_de_passe">enter password</string>
+    <string name="identifiant">login</string>
+    <string name="confirmer_mot_de_passe">password confirmation</string>
+    <string name="entrer_nom">enter name</string>
+    <string name="tous_droits_r_serv_s">"All rights reserved "</string>
+    <string name="une_application_mobile_responsive_pour_rechercher_tout_ce_que_vous_vouler_savoir_sur_le_nouveau_coronavirus">A responsive mobile application to find everything you want to know about the new coronavirus</string>
+</resources>

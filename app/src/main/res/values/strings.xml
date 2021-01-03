@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Covid_Encyclopedia</string>
+    <string name="title_activity_menu__inscription">Menu_Inscription</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="menu">Menu</string>
+    <string name="les_actualit_s_en_tunisie">Les actualités en Tunisie</string>
+    <string name="covid_presentation">Covid presentation</string>
+    <string name="a_propos">A propos</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="connecter">connecter</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="restaurer_mot_de_passe">Restaurer mot de passe</string>
+
+    <string name="confirmer_password">Confirmer Password</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="restauration_mot_de_passe">Restauration mot de passe</string>
+    <string name="saisir_votre_identifiant_email">Saisir votre identifiant/email</string>
+    <string name="votre_adresse_email">votre adresse email</string>
+    <string name="restaurer">Restaurer</string>
+    <string name="terminer">Terminer</string>
+    <string name="autoriser_les_notifications">Autoriser les notifications</string>
+    <string name="j_accepte_les_termes_et_les_conditions">J\'accepte les termes et les conditions</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="une_application_mobile_responsive_pour_rechercher_tout_ce_que_vous_vouler_savoir_sur_le_nouveau_coronavirus">Une application mobile responsive pour rechercher tout ce que vous vouler savoir sur le nouveau coronavirus</string>
+    <string name="back">Back</string>
+    <string name="tous_droits_r_serv_s">Tous droits réservés</string>
+    <string name="entrer_nom">Entrer nom</string>
+    <string name="entrer_mot_de_passe">entrer mot de passe</string>
+    <string name="identifiant">identifiant</string>
+
+    <string name="confirmer_mot_de_passe">confirmer mot de passe</string>
+</resources>
